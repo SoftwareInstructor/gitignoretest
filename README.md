@@ -1,1 +1,2 @@
 # gitignoretest
+gitignore file kullanımı
